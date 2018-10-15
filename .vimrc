@@ -3,7 +3,7 @@
 
  if has('vim_starting')
    if &compatible
-     set nocompatible      " Be iMproved
+     set nocompatible      " Be_ iMproved
    endif
 
    " Required:
